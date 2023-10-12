@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
         borderColor: "#55BCF6",
         borderWidth:3,
         borderRadius: 8,
-        
+
     }
 });
 export default Task;
